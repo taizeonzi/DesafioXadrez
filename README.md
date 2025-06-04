@@ -1,3 +1,6 @@
+## Projeto faculdade ADS - desafio em C, com três níveis de dificuldade
+
+
 # Desafio de Xadrez - MateCheck
 
 Bem-vindo ao desafio de Xadrez da MateCheck! Este projeto tem como objetivo testar e determinar os limites de utilização do código dentro do jogo utilizando estruturas de repetição e funções avançadas.
